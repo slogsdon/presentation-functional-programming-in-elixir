@@ -70,7 +70,7 @@ myList // List<string>
 ```
 
 
-## Compostion
+## Composition
 
 Combine simple functions to build complicated ones
 
@@ -107,6 +107,17 @@ mySprockets // List<Sprocket>
 
 - Predictable
 - Make for easily testable code
+
+## Pure Functions
+
+Pure:
+
+- Enum.map
+- String.split
+
+Impure:
+
+- IO.inspect
 
 
 ## Recursion
@@ -210,4 +221,17 @@ static IEnumerable<int> GetPrimes()
 
 - Pattern matching
 - Structs
+- Behaviours
 - Protocols
+
+
+## Lists
+
+Code time
+
+
+## Questions?
+
+Go for it!
+
+github.com/slogsdon/presentation-functional-programming-in-elixir
